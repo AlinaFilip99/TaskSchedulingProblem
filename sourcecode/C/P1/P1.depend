@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1559466898 source:c:\users\alina\desktop\p1\greedy.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"greedy.h"
+
+1559466864 c:\users\alina\desktop\p1\greedy.h
+
+1559468193 source:c:\users\alina\desktop\p1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	"greedy.h"
+

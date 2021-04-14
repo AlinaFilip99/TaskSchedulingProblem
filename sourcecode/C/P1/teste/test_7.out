@@ -1,0 +1,29 @@
+
+=== Sorted activities ===
+ Activities:
+ id: 17 time start: 13 time end: 129 
+ id: 3 time start: 181 time end: 185 
+ id: 2 time start: 38 time end: 330 
+ id: 11 time start: 52 time end: 354 
+ id: 15 time start: 103 time end: 376 
+ id: 12 time start: 9 time end: 385 
+ id: 19 time start: 177 time end: 435 
+ id: 0 time start: 485 time end: 493 
+ id: 1 time start: 115 time end: 528 
+ id: 6 time start: 469 time end: 536 
+ id: 8 time start: 223 time end: 583 
+ id: 13 time start: 504 time end: 766 
+ id: 14 time start: 404 time end: 811 
+ id: 7 time start: 65 time end: 941 
+ id: 9 time start: 418 time end: 1094 
+ id: 16 time start: 722 time end: 1129 
+ id: 10 time start: 272 time end: 1154 
+ id: 4 time start: 1160 time end: 1270 
+ id: 5 time start: 1364 time end: 1382 
+ id: 18 time start: 1221 time end: 1403 
+Spectacolul nr 1 (id: 17) incepe la 0 13 si se termina la 2 9
+Spectacolul nr 2 (id: 3) incepe la 3 1 si se termina la 3 5
+Spectacolul nr 3 (id: 0) incepe la 8 5 si se termina la 8 13
+Spectacolul nr 4 (id: 13) incepe la 8 24 si se termina la 12 46
+Spectacolul nr 5 (id: 4) incepe la 19 20 si se termina la 21 10
+Spectacolul nr 6 (id: 5) incepe la 22 44 si se termina la 23 2
